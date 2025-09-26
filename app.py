@@ -1,6 +1,6 @@
 from flask import Flask
 # Initialize the Flask app
-app = Flask(__name veerappa gari jiraa__)
+app = Flask(__name veerappagari rajeswari__)
 # Define a route
 @app.route("/")
 def home():
